@@ -54,8 +54,8 @@ project-directory/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/rag-chatbot.git
-   cd rag-chatbot
+   git clone https://github.com/Venkata1106/rag--chatbot.git
+   cd rag--chatbot
    ```
 
 2. **Install Dependencies**:
